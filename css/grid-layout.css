@@ -8,8 +8,7 @@
   
 .grid-item {
     background-color: rgba(var(--grid-color), 0.25);
-    border: 1px solid rgba(var(--grid-color), 1);
+    border: 1px solid rgba(var(--grid-color), 0);
     border-radius: 1rem;
     padding: 2em;
-}
-  
+} 
